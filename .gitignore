@@ -1,3 +1,6 @@
 .idea/
 venv/
-data/
+examples/data/*.tab
+examples/data/*.xml
+__pycache__/
+examples/__pycache__/
